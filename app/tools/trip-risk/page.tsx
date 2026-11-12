@@ -15,12 +15,15 @@ export const metadata: Metadata = {
 
 export default function TripRiskPage() {
   return (
-    <main id="main-content" className="shell section">
-      <div className="page-intro">
+    <main id="main-content" className="risk-page">
+      <div className="page-banner pulse-band">
+      <div className="page-intro shell section">
         <p className="eyebrow">FrameIQ tools / 01</p>
         <h1>How risky is your trip?</h1>
         <p>Put an unfamiliar number in context. Choose a travel mode and a trip length to compare historical fatal-event exposure.</p>
       </div>
+      </div>
+      <div className="shell section">
       <TripRiskCalculator />
       <section className="section" aria-labelledby="method-heading">
         <p className="eyebrow">Open methodology</p>
@@ -34,6 +37,7 @@ export default function TripRiskPage() {
         <p>Road equivalents divide the trip’s modeled exposure by the relevant road involvement rate per mile. Changing road duration changes assumed mileage at 60 mph; at a fixed mileage, driving time alone does not change exposure. Results are expected counts across a million modeled vehicle journeys, not measured counts of identical trips. Display values are rounded; calculations use the full inputs.</p>
         <p className="muted">Verified source cutoff: November 8, 2026. Source cohorts and fatal-event definitions differ; these are approximate comparisons.</p>
       </section>
+      </div>
     </main>
   );
 }

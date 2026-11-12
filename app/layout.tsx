@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { IBM_Plex_Mono, IBM_Plex_Sans } from "next/font/google";
+import { PULSE_LOGO_OPTION } from "../lib/brand";
 import "./globals.css";
 
 const plexSans = IBM_Plex_Sans({ weight: ["400", "700"], subsets: ["latin"], variable: "--font-plex-sans", display: "swap" });
@@ -20,7 +21,7 @@ export const metadata: Metadata = {
   },
   twitter: { card: "summary_large_image" },
   icons: {
-    icon: [{ url: "/brand/frameiq-symbol-primary.svg", type: "image/svg+xml" }, { url: "/brand/favicon.ico", sizes: "any" }],
+    icon: [{ url: `/brand/pulse/${PULSE_LOGO_OPTION}-favicon.svg`, type: "image/svg+xml" }, { url: "/brand/favicon.ico", sizes: "any" }],
     apple: "/brand/apple-touch-icon.png",
   },
 };

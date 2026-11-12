@@ -1,0 +1,75 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "status": 200,
+      "logo": "/brand/pulse/b-horizontal-dark.svg"
+    },
+    {
+      "route": "/stories",
+      "status": 200,
+      "logo": "/brand/pulse/b-horizontal-dark.svg"
+    },
+    {
+      "route": "/stories/learjet-n722bd",
+      "status": 200,
+      "logo": "/brand/pulse/b-horizontal-dark.svg"
+    },
+    {
+      "route": "/tools/trip-risk",
+      "status": 200,
+      "logo": "/brand/pulse/b-horizontal-dark.svg"
+    },
+    {
+      "route": "/capture",
+      "status": 200,
+      "logo": "/brand/pulse/b-horizontal-dark.svg"
+    }
+  ],
+  "screenshots": [
+    {
+      "route": "/",
+      "width": 1440,
+      "file": "qa/home-1440.png",
+      "noHorizontalOverflow": true
+    },
+    {
+      "route": "/stories/learjet-n722bd",
+      "width": 1440,
+      "file": "qa/learjet-1440.png",
+      "noHorizontalOverflow": true
+    },
+    {
+      "route": "/tools/trip-risk",
+      "width": 1440,
+      "file": "qa/trip-risk-1440.png",
+      "noHorizontalOverflow": true
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "file": "qa/home-390.png",
+      "noHorizontalOverflow": true
+    },
+    {
+      "route": "/stories/learjet-n722bd",
+      "width": 390,
+      "file": "qa/learjet-390.png",
+      "noHorizontalOverflow": true
+    },
+    {
+      "route": "/tools/trip-risk",
+      "width": 390,
+      "file": "qa/trip-risk-390.png",
+      "noHorizontalOverflow": true
+    }
+  ],
+  "checks": [
+    "Three curated public long-forms rendered exactly once",
+    "Home tools anchor navigates",
+    "Story player waits for click, then loads YouTube privacy embed",
+    "Story source anchor navigates",
+    "Calculator default, mode/unit changes, invalid input, and recovery pass"
+  ],
+  "browserErrors": []
+}

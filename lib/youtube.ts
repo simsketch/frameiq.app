@@ -1,3 +1,5 @@
+import { curatedLongForms } from "./youtube-long-forms.mjs";
+
 export type YouTubeVideo = {
   id: string;
   title: string;
@@ -48,14 +50,24 @@ export function parseYouTubeFeed(xml: string): YouTubeVideo[] {
 }
 
 export async function getLatestVideos(): Promise<YouTubeVideo[]> {
-  // shortcut: the feed covers the latest 15 uploads; use an archive source if older-video coverage is needed.
+  const curatedVideos = curatedLongForms.map((video) => ({
+    ...video,
+    isShort: false,
+    thumbnail: `https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`,
+    url: `https://www.youtube.com/watch?v=${video.id}`,
+  }));
+  let feedVideos: YouTubeVideo[] = [];
+  // shortcut: RSS covers 15 uploads; extend the curated list when publishing older long-form explainers.
   try {
     const response = await fetch(
       "https://www.youtube.com/feeds/videos.xml?channel_id=UChYuUiz1Dk5UhNL_UYsFkcQ",
       { next: { revalidate: 1800 }, signal: AbortSignal.timeout(8000) },
     );
-    return response.ok ? parseYouTubeFeed(await response.text()) : [];
+    if (response.ok) feedVideos = parseYouTubeFeed(await response.text());
   } catch {
-    return [];
+    // Keep the verified archive available when YouTube's feed is unreachable.
   }
+  return [...feedVideos, ...curatedVideos].filter((video, index, videos) =>
+    videos.findIndex((candidate) => candidate.id === video.id) === index,
+  );
 }

@@ -1,5 +1,6 @@
 import Image from "next/image";
 import type { Metadata } from "next";
+import { SiteHeader, SiteFooter } from "@/components/SiteChrome";
 
 export const metadata: Metadata = {
   title: { absolute: "FrameIQ - Pro Screen Capture & Recording for macOS" },
@@ -721,6 +722,11 @@ function DetailRow({ label, value }: { label: string; value: string }) {
 
 export default function Home() {
   return (
+    <>
+    <div className="channel chrome-only">
+      <a className="skip-link" href="#main-content">Skip to content</a>
+      <SiteHeader />
+    </div>
     <div className="min-h-screen bg-[#0a0a0f] text-white overflow-hidden">
       {/* Gradient background effects */}
       <div className="fixed inset-0 pointer-events-none">
@@ -729,36 +735,17 @@ export default function Home() {
         <div className="absolute top-[40%] right-[30%] w-[400px] h-[400px] rounded-full bg-indigo-600/5 blur-[128px]" />
       </div>
 
-      {/* Nav */}
-      <nav className="relative z-10 flex items-center justify-between px-6 py-4 max-w-6xl mx-auto">
-        <div className="flex items-center gap-3">
-          <Image
-            src="/app-icon.png"
-            alt="FrameIQ"
-            width={40}
-            height={40}
-            className="rounded-lg"
-          />
-          <span className="text-xl font-bold tracking-tight">FrameIQ</span>
-        </div>
+      <nav aria-label="Capture app" className="relative z-10 flex flex-wrap items-center justify-between gap-4 px-6 py-5 max-w-6xl mx-auto">
+        <span className="font-bold">FrameIQ Capture for macOS</span>
         <div className="flex items-center gap-6">
-          <a href="#features" className="text-sm text-gray-400 hover:text-white transition-colors">
-            Features
-          </a>
-          <a href="#preview" className="text-sm text-gray-400 hover:text-white transition-colors">
-            Preview
-          </a>
-          <a
-            href="/FrameIQ.dmg"
-            className="text-sm font-medium bg-white text-black px-4 py-2 rounded-lg hover:bg-gray-200 transition-colors"
-          >
-            Download
-          </a>
+          <a href="#features" className="text-sm text-gray-300 hover:text-white">Features</a>
+          <a href="#preview" className="text-sm text-gray-300 hover:text-white">Preview</a>
+          <a href="/FrameIQ.dmg" className="text-sm font-medium bg-white text-black px-4 py-2 rounded-lg hover:bg-gray-200">Download</a>
         </div>
       </nav>
 
       {/* Hero */}
-      <main className="relative z-10 max-w-6xl mx-auto px-6">
+      <main id="main-content" className="relative z-10 max-w-6xl mx-auto px-6">
         <section className="pt-24 pb-20 text-center">
           <div className="inline-flex items-center gap-2 bg-white/5 border border-white/10 rounded-full px-4 py-1.5 mb-8">
             <span className="w-2 h-2 bg-green-400 rounded-full animate-pulse" />
@@ -958,26 +945,9 @@ export default function Home() {
         </section>
       </main>
 
-      {/* Footer */}
-      <footer className="relative z-10 border-t border-white/[0.06] py-8 px-6">
-        <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
-          <div className="flex items-center gap-2">
-            <Image
-              src="/app-icon.png"
-              alt="FrameIQ"
-              width={24}
-              height={24}
-              className="rounded-md"
-            />
-            <span className="text-sm text-gray-500">
-              &copy; {new Date().getFullYear()} FrameIQ
-            </span>
-          </div>
-          <p className="text-sm text-gray-600">
-            Built for macOS &middot; Requires macOS 14+
-          </p>
-        </div>
-      </footer>
+      <p className="relative z-10 text-sm text-gray-300 text-center pb-8">Built for macOS · Requires macOS 14+</p>
     </div>
+    <div className="channel chrome-only"><SiteFooter /></div>
+    </>
   );
 }

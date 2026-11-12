@@ -57,10 +57,11 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   };
 
   return (
-    <main id="main-content" className="shell section story-article">
+    <main id="main-content" className="story-article">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(article).replace(/</g, "\\u003c") }} />
       <article>
-        <header className="page-intro">
+        <div className="page-banner pulse-band">
+        <header className="page-intro shell section">
           <Link href="/stories" className="text-link">← All stories</Link>
           <p className="eyebrow">{story.category}</p>
           <h1>{story.title}</h1>
@@ -68,7 +69,8 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           <p className="story-meta">By FrameIQ · Published <time dateTime={story.publishedAt}>{formatStoryDate(story.publishedAt)}</time> · Updated <time dateTime={story.updatedAt}>{formatStoryDate(story.updatedAt)}</time></p>
           <span className="data-chip">Investigation-status cutoff: {formatStoryDate(story.sourceCutoff)}</span>
         </header>
-        <nav className="article-jump-links" aria-label="On this page">
+        </div>
+        <nav className="article-jump-links shell" aria-label="On this page">
           <a href="#summary">Summary</a><a href="#videos">Videos</a><a href="#timeline">Timeline</a><a href="#known">Known & unknown</a><a href="#analysis">Analysis</a><a href="#sources">Sources</a><a href="#corrections">Updates</a>
         </nav>
         <div className="article-body">

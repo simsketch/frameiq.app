@@ -1,5 +1,6 @@
 import assert from "node:assert/strict";
 import { getLatestVideos, parseYouTubeFeed } from "../lib/youtube.ts";
+import { curatedLongForms } from "../lib/youtube-long-forms.mjs";
 
 const entry = (id, title, link = "watch?v=" + id, published = "2026-11-08T12:00:00+00:00") =>
   `<entry><yt:videoId>${id}</yt:videoId><title>${title}</title><published>${published}</published><link rel="alternate" href="https://www.youtube.com/${link}"/></entry>`;
@@ -34,14 +35,24 @@ try {
     assert.ok(options.signal instanceof AbortSignal);
     return new Response(feed(entry("QfEGcw0wwt0", "A video")));
   };
-  assert.equal((await getLatestVideos()).length, 1);
+  const merged = await getLatestVideos();
+  assert.equal(merged.length, curatedLongForms.length);
+  assert.equal(merged.filter((video) => video.id === "QfEGcw0wwt0").length, 1);
+  assert.equal(merged[0].title, "A video");
+  assert.ok(merged.every((video) => !video.isShort));
+  globalThis.fetch = async () => new Response(feed(entry("abcdefghijk", "Latest #Shorts")));
+  const shortsAndArchive = await getLatestVideos();
+  assert.equal(shortsAndArchive[0].isShort, true);
+  assert.equal(shortsAndArchive.filter((video) => !video.isShort).length, 3);
   globalThis.fetch = async () => new Response("Unavailable", { status: 503 });
-  assert.deepEqual(await getLatestVideos(), []);
+  const archive = await getLatestVideos();
+  assert.deepEqual(archive.map((video) => video.id), curatedLongForms.map((video) => video.id));
+  assert.ok(archive.every((video) => !video.isShort && Number.isFinite(Date.parse(video.published))));
   globalThis.fetch = async () => new Response("<html>Unavailable</html>");
-  assert.deepEqual(await getLatestVideos(), []);
+  assert.deepEqual(await getLatestVideos(), archive);
   globalThis.fetch = async () => { throw new Error("Network unavailable"); };
-  assert.deepEqual(await getLatestVideos(), []);
+  assert.deepEqual(await getLatestVideos(), archive);
 } finally {
   globalThis.fetch = originalFetch;
 }
-console.log("YouTube checks passed: XML, entities, Shorts, invalid entries, and feed fallback.");
+console.log("YouTube checks passed: XML, entities, Shorts, invalid entries, curated fallback, and feed-first deduplication.");

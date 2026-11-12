@@ -1,11 +1,10 @@
 import Link from "next/link";
 import Wordmark from "./Wordmark";
 
-export default function SiteChrome({ children }: { children: React.ReactNode }) {
+export function SiteHeader() {
   return (
-    <div className="channel">
-      <a className="skip-link" href="#main-content">Skip to content</a>
-      <header className="site-header shell">
+    <header className="site-header">
+      <div className="shell header-inner">
         <Wordmark />
         <nav aria-label="Main navigation">
           <Link href="/#videos">Videos</Link>
@@ -13,9 +12,14 @@ export default function SiteChrome({ children }: { children: React.ReactNode }) 
           <Link href="/#tools">Tools</Link>
           <a href="https://www.youtube.com/@frameiqapp" target="_blank" rel="noopener noreferrer">YouTube <span aria-hidden="true">↗</span><span className="sr-only"> (opens in a new tab)</span></a>
         </nav>
-      </header>
-      {children}
-      <footer className="site-footer">
+      </div>
+    </header>
+  );
+}
+
+export function SiteFooter() {
+  return (
+    <footer className="site-footer">
         <div className="shell footer-grid">
           <div><Wordmark reverse /><p className="footer-tagline">CONTEXT. CLARITY. FRAMEIQ.</p></div>
           <div>
@@ -25,7 +29,17 @@ export default function SiteChrome({ children }: { children: React.ReactNode }) 
           </div>
         </div>
         <div className="shell footer-bottom"><span>© {new Date().getFullYear()} FrameIQ</span><span>THE STORY. IN FOCUS.</span></div>
-      </footer>
+    </footer>
+  );
+}
+
+export default function SiteChrome({ children }: { children: React.ReactNode }) {
+  return (
+    <div className="channel">
+      <a className="skip-link" href="#main-content">Skip to content</a>
+      <SiteHeader />
+      {children}
+      <SiteFooter />
     </div>
   );
 }

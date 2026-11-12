@@ -15,13 +15,15 @@ export const metadata: Metadata = {
 
 export default function StoriesPage() {
   return (
-    <main id="main-content" className="shell section">
-      <header className="page-intro">
+    <main id="main-content" className="stories-page">
+      <div className="page-banner pulse-band">
+      <header className="page-intro shell section">
         <p className="eyebrow">The evidence file</p>
         <h1>Stories</h1>
         <p>The reporting, sources, and unanswered questions behind our videos. What we know, how we know it, and what may change.</p>
       </header>
-      <div className="story-grid">
+      </div>
+      <div className="story-grid shell section">
         {stories.map((story) => (
           <article className="story-card" key={story.slug}>
             <Link href={`/stories/${story.slug}`} className="story-thumbnail" tabIndex={-1} aria-hidden="true">
