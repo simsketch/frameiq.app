@@ -63,15 +63,15 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
         <div className="page-banner pulse-band">
         <header className="page-intro shell section">
           <Link href="/stories" className="text-link">← All stories</Link>
-          <p className="eyebrow">{story.category}</p>
+          <p className="eyebrow">{story.category} · {story.status}</p>
           <h1>{story.title}</h1>
           <p>{story.description}</p>
           <p className="story-meta">By FrameIQ · Published <time dateTime={story.publishedAt}>{formatStoryDate(story.publishedAt)}</time> · Updated <time dateTime={story.updatedAt}>{formatStoryDate(story.updatedAt)}</time></p>
-          <span className="data-chip">Investigation-status cutoff: {formatStoryDate(story.sourceCutoff)}</span>
+          <span className="data-chip">Reporting checked {formatStoryDate(story.sourceCutoff)}</span>
         </header>
         </div>
         <nav className="article-jump-links shell" aria-label="On this page">
-          <a href="#summary">Summary</a><a href="#videos">Videos</a><a href="#timeline">Timeline</a><a href="#known">Known & unknown</a><a href="#analysis">Analysis</a><a href="#sources">Sources</a><a href="#corrections">Updates</a>
+          <a href="#summary">Summary</a><a href="#videos">Videos</a>{story.timeline.length > 0 && <a href="#timeline">Timeline</a>}<a href="#known">Key facts & limits</a>{story.analysis.length > 0 && <a href="#analysis">Analysis</a>}<a href="#sources">Sources</a><a href="#corrections">Updates</a>
         </nav>
         <div className="article-body">
           <section id="summary" className="article-section" aria-labelledby="summary-heading">
@@ -86,28 +86,28 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
             <p className="muted">A YouTube player loads only when you choose to play a video. Reconstructions and explanatory analysis are not official findings.</p>
             <div className="video-grid">{story.videos.map((video) => <LiteYouTube key={video.id} {...video} />)}</div>
           </section>
-          <section id="timeline" className="article-section" aria-labelledby="timeline-heading">
+          {story.timeline.length > 0 && <section id="timeline" className="article-section" aria-labelledby="timeline-heading">
             <p className="eyebrow">03 / Dated record</p>
             <h2 id="timeline-heading">A timeline of the evidence</h2>
             <ol className="timeline">
-              {story.timeline.map((event) => <li key={event.date}><h3><time dateTime={event.date}>{event.label}</time></h3><p>{event.text}<SourceRefs sources={event.sources} /></p></li>)}
+              {story.timeline.map((event) => <li key={`${event.date}-${event.label}`}><h3><time dateTime={event.date}>{event.label}</time></h3><p>{event.text}<SourceRefs sources={event.sources} /></p></li>)}
             </ol>
-          </section>
+          </section>}
           <section id="known" className="article-section" aria-labelledby="known-heading">
             <p className="eyebrow">04 / Limits of the record</p>
             <h2 id="known-heading">What’s known / what isn’t</h2>
-            <p className="muted">Investigation status as of {formatStoryDate(story.sourceCutoff)}.</p>
+            <p className="muted">Based on reporting checked {formatStoryDate(story.sourceCutoff)}.</p>
             <div className="knowledge-grid">
-              <div><h3>What’s known</h3><ul>{story.known.map((item) => <li key={item.text}>{item.text}<SourceRefs sources={item.sources} /></li>)}</ul></div>
-              <div><h3>What remains unknown</h3><ul>{story.unknown.map((item) => <li key={item.text}>{item.text}<SourceRefs sources={item.sources} /></li>)}</ul></div>
+              <div><h3>What’s known · Key facts</h3><ul>{story.known.map((item) => <li key={item.text}>{item.text}<SourceRefs sources={item.sources} /></li>)}</ul></div>
+              {story.unknown.length > 0 && <div><h3>What remains unresolved</h3><ul>{story.unknown.map((item) => <li key={item.text}>{item.text}<SourceRefs sources={item.sources} /></li>)}</ul></div>}
             </div>
           </section>
-          <section id="analysis" className="article-section" aria-labelledby="analysis-heading">
+          {story.analysis.length > 0 && <section id="analysis" className="article-section" aria-labelledby="analysis-heading">
             <p className="eyebrow">05 / FrameIQ analysis</p>
             <h2 id="analysis-heading">Reading the evidence carefully</h2>
-            <p className="data-chip">Analysis · Not an official cause or NTSB finding</p>
+            <p className="data-chip">Analysis · FrameIQ’s interpretation</p>
             {story.analysis.map((analysis) => <div key={analysis.title}><h3>{analysis.title}</h3>{analysis.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}<p><SourceRefs sources={analysis.sources} /></p></div>)}
-          </section>
+          </section>}
           <section id="sources" className="article-section" aria-labelledby="sources-heading">
             <p className="eyebrow">06 / Follow the sources</p>
             <h2 id="sources-heading">The source record</h2>
@@ -118,8 +118,8 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
             <p className="eyebrow">A record that can change</p>
             <h2 id="corrections-heading">Corrections & updates</h2>
             <p><strong>Last updated:</strong> <time dateTime={story.updatedAt}>{formatStoryDate(story.updatedAt)}</time>.</p>
+            <p><strong>Reporting checked <time dateTime={story.sourceCutoff}>{formatStoryDate(story.sourceCutoff)}</time>.</strong></p>
             <p>{story.corrections}</p>
-            <p>No subsequent official findings have been incorporated into this version.</p>
           </section>
         </div>
       </article>

@@ -1,0 +1,1377 @@
+{
+  "checkedAt": "2026-11-12T10:17:15.358739+00:00",
+  "feedStatus": 200,
+  "feed": [
+    {
+      "id": "IVbfLmHgrGk",
+      "title": "The Tiny Gap Behind Challenger\u2019s Disaster #Shorts",
+      "publishedAt": "2026-11-12T09:30:47+00:00"
+    },
+    {
+      "id": "Mr22cH3ROC0",
+      "title": "Webb\u2019s Mirror Has 18 Pieces. Why Not 18 Pictures? #Shorts",
+      "publishedAt": "2026-11-12T09:12:38+00:00"
+    },
+    {
+      "id": "2GwvVGsoAkc",
+      "title": "One Loose Wire. Baltimore\u2019s Key Bridge Disaster. #Shorts",
+      "publishedAt": "2026-11-12T09:10:10+00:00"
+    },
+    {
+      "id": "eSEbqWERlEY",
+      "title": "Why Earthquake Ground Can Act Like a Liquid #Shorts",
+      "publishedAt": "2026-11-12T08:24:42+00:00"
+    },
+    {
+      "id": "Rl6wSFFmbeU",
+      "title": "Johnstown: The Flood Began Fourteen Miles Away #Shorts",
+      "publishedAt": "2026-11-12T08:23:41+00:00"
+    },
+    {
+      "id": "WPNGwqUeqHk",
+      "title": "Why Is the Middle Still Cold? #Shorts",
+      "publishedAt": "2026-11-12T08:22:20+00:00"
+    },
+    {
+      "id": "osdlbTRcRvE",
+      "title": "How Volcanic Ash Can Glaze a Jet Engine #Shorts",
+      "publishedAt": "2026-11-12T08:20:54+00:00"
+    },
+    {
+      "id": "j9EBYbho4WI",
+      "title": "Jensen Huang: The Affairs, the Warning, and the Board\u2019s Next Move #Shorts",
+      "publishedAt": "2026-11-12T08:13:57+00:00"
+    },
+    {
+      "id": "p66uxYh7ils",
+      "title": "How Did a Helicopter Fly in Almost No Air? #Shorts",
+      "publishedAt": "2026-11-12T07:47:10+00:00"
+    },
+    {
+      "id": "dYHbpArWJ0g",
+      "title": "How Molasses Became a Deadly Flood in Boston #Shorts",
+      "publishedAt": "2026-11-12T06:00:56+00:00"
+    },
+    {
+      "id": "sqSpm6CQ1SQ",
+      "title": "Why NASA\u2019s Mars Probes Came Back to Earth First #Shorts",
+      "publishedAt": "2026-11-12T05:56:59+00:00"
+    },
+    {
+      "id": "7i2q7oVEfJQ",
+      "title": "Jensen Huang Could Be Ousted. Who Decides? #Shorts",
+      "publishedAt": "2026-11-12T05:44:56+00:00"
+    },
+    {
+      "id": "eM-3Li01yPY",
+      "title": "How Do You Repair the Internet on the Ocean Floor? #Shorts",
+      "publishedAt": "2026-11-11T23:09:22+00:00"
+    },
+    {
+      "id": "kp3sIvuJuXI",
+      "title": "Why a Tsunami Can Hide Beneath a Ship #Shorts",
+      "publishedAt": "2026-11-11T23:08:20+00:00"
+    },
+    {
+      "id": "s9Anz5XmBs0",
+      "title": "A Small Change Rerouted the Load. Two Walkways Collapsed. #Shorts",
+      "publishedAt": "2026-11-11T23:07:54+00:00"
+    }
+  ],
+  "candidateCount": 278,
+  "publicFrameIQ": [
+    {
+      "id": "vRB2jvToKR4",
+      "title": "One Turn Put Two Departing Jets in Conflict at LAX",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "lax-close-call-2026-11-10"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/publication-remaining-2026-11-11.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-publication-inventory.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/lax-close-call-2026-11-10/PROJECT.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/lax-close-call-2026-11-10/delivery/publication-receipt.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/lax-close-call-2026-11-10/delivery/upload-metadata.json",
+        "Known existing FrameIQ story or publication inventory"
+      ],
+      "storyGroup": "lax-close-call"
+    },
+    {
+      "id": "8qmRaJ9Sb_4",
+      "title": "Why the Learjet Left a Crater: The Physics Explained",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "learjet-crater-2026-11-10"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/publication-remaining-2026-11-11.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-publication-inventory.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-crater-2026-11-10/PROJECT.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-crater-2026-11-10/delivery/publication-receipt.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-crater-2026-11-10/delivery/upload-metadata.json",
+        "Known existing FrameIQ story or publication inventory"
+      ],
+      "storyGroup": "learjet-n722bd"
+    },
+    {
+      "id": "k1NbZIw-Hus",
+      "title": "Edmund Fitzgerald: No Call Heard, But Trouble Was Reported",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "edmund-fitzgerald-2026-11-10"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/publication-remaining-2026-11-11.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-publication-inventory.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/edmund-fitzgerald-2026-11-10/PROJECT.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/edmund-fitzgerald-2026-11-10/delivery/publication-receipt.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/edmund-fitzgerald-2026-11-10/delivery/upload-metadata.json",
+        "Known existing FrameIQ story or publication inventory"
+      ],
+      "storyGroup": "edmund-fitzgerald"
+    },
+    {
+      "id": "CYmm-0p-8Bw",
+      "title": "Body Found at Checkers: BSO Update & Broward Homicide Context #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "deerfield-checkers-2026-11-10"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/publication-remaining-2026-11-11.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-publication-inventory.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/deerfield-checkers-2026-11-10/PROJECT.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/deerfield-checkers-2026-11-10/delivery/publication-receipt.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/deerfield-checkers-2026-11-10/delivery/upload-metadata.json",
+        "Known existing FrameIQ story or publication inventory"
+      ],
+      "storyGroup": "deerfield-checkers"
+    },
+    {
+      "id": "cuANLbwMl5M",
+      "title": "Airline vs Private Flying: What the Safety Data Shows #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-publication-inventory.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/existing-frameiq-publications-2026-11-11.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/commercial-vs-private/delivery/PUBLISHED.md",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/commercial-vs-private/delivery/upload-package.json",
+        "Known existing FrameIQ story or publication inventory"
+      ],
+      "storyGroup": "commercial-vs-private"
+    },
+    {
+      "id": "N1MAtM3zxl8",
+      "title": "100,000 Flight Hours: Airline vs Private Flying #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-publication-inventory.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/existing-frameiq-publications-2026-11-11.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/commercial-vs-private/delivery/PUBLISHED.md",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/commercial-vs-private/delivery/upload-package.json",
+        "Known existing FrameIQ story or publication inventory"
+      ],
+      "storyGroup": "commercial-vs-private"
+    },
+    {
+      "id": "HvDAMPBVvP0",
+      "title": "What GDP Misses \u2014 Tenzin Seldon's GDR, Explained",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-publication-inventory.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/publication-2026-11-11.json"
+      ],
+      "storyGroup": "excluded-non-frameiq-project-gdr"
+    },
+    {
+      "id": "9oijiOCHJq8",
+      "title": "Hamburg, Iowa: Victims Identified, Cause Unknown",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "iowa-crash-2026-11-10"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-publication-inventory.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/publication-2026-11-11.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/iowa-crash-2026-11-10/PROJECT.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/iowa-crash-2026-11-10/delivery/publication-receipt.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/iowa-crash-2026-11-10/delivery/upload-metadata.json",
+        "Known existing FrameIQ story or publication inventory"
+      ],
+      "storyGroup": "hamburg-iowa-crash"
+    },
+    {
+      "id": "BOS9RSEiIfk",
+      "title": "Why a Finished AI Data Center Can Still Wait for Electricity #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-publication-inventory.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/existing-frameiq-publications-2026-11-11.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/trending-shorts-2026-11-10/projects.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/trending-shorts-2026-11-10/projects/ai-power-grid-hook-test/REVIEW.md",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/trending-shorts-2026-11-10/delivery/ai-power-grid-3d-full-v2.json",
+        "Known existing FrameIQ story or publication inventory"
+      ],
+      "storyGroup": "ai-data-center-power"
+    },
+    {
+      "id": "dqfYOmC3VEg",
+      "title": "Can a Plane Land Without Electricity? Boca Raton Scare Explained #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-publication-inventory.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/existing-frameiq-publications-2026-11-11.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/boca-electrical/README.md",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/boca-electrical/delivery/PUBLISHED.md",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/boca-electrical/delivery/upload-package.json",
+        "Known existing FrameIQ story or publication inventory"
+      ],
+      "storyGroup": "boca-electrical"
+    },
+    {
+      "id": "WsePyQYIYKg",
+      "title": "Leather Seats Don\u2019t Make a Flight Safer #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-publication-inventory.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/existing-frameiq-publications-2026-11-11.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/commercial-vs-private/delivery/PUBLISHED.md",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/commercial-vs-private/delivery/upload-package.json",
+        "Known existing FrameIQ story or publication inventory"
+      ],
+      "storyGroup": "commercial-vs-private"
+    },
+    {
+      "id": "raWMLZh7GQw",
+      "title": "Gwinnett County Plane Crash: What We Know",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "atlanta-crash-2026-11-10"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-publication-inventory.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/publication-2026-11-11.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/atlanta-crash-2026-11-10/PROJECT.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/atlanta-crash-2026-11-10/delivery/publication-receipt.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/atlanta-crash-2026-11-10/delivery/upload-metadata.json",
+        "Known existing FrameIQ story or publication inventory"
+      ],
+      "storyGroup": "gwinnett-plane-crash"
+    },
+    {
+      "id": "Ssnn5VR2Tb4",
+      "title": "Why Did the Learjet Crash in Greenacres? Ice, or a Breakup?",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-followup/sources.json",
+        "/Users/simsketch/repos/youtube/private/2026-11-01-learjet-greenacres/shorts/07-found-debris-ntsb-wants-to-know/notes.md",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-speeddraw/title-description.txt",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-flatvector/NOTES.md",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-flatvector/shorts/codex.log",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-flatvector/shorts/codex-fix.log",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-flatvector/shorts/BRIEF.md",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-flatvector/shorts/03-storm-altitude/notes.md",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-flatvector/shorts/01-pitot-icing/notes.md",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-flatvector/shorts/build/document.py",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-flatvector/shorts/02-tail-icing/notes.md",
+        "Known existing FrameIQ story or publication inventory"
+      ],
+      "storyGroup": "learjet-n722bd"
+    },
+    {
+      "id": "KH5_p9inYfE",
+      "title": "35,000 Feet in 75 Seconds: The Last Flight of Learjet 60 N722BD, Explained",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-followup/sources.json"
+      ],
+      "storyGroup": "learjet-n722bd"
+    },
+    {
+      "id": "OvUHlRR_vsU",
+      "title": "How Safe Are Private Jets? Learjet 60 Safety by the Numbers",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-followup/sources.json"
+      ],
+      "storyGroup": "commercial-vs-private"
+    },
+    {
+      "id": "jLFZ3hOuH-I",
+      "title": "35,000 Feet in 75 Seconds: The Last Flight of Learjet 60 N722BD, Explained",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-followup/sources.json",
+        "/Users/simsketch/repos/youtube/private/2026-11-01-learjet-greenacres/shorts/04-35000-ft-in-75-seconds/notes.md",
+        "/Users/simsketch/repos/youtube/private/2026-11-01-learjet-greenacres/shorts/05-600-knots-past-mach-limit/notes.md",
+        "Known existing FrameIQ story or publication inventory"
+      ],
+      "storyGroup": "learjet-n722bd"
+    },
+    {
+      "id": "QfEGcw0wwt0",
+      "title": "Inside the Storm: A 3D Reconstruction of the Learjet N722BD Crash",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-followup/sources.json",
+        "/Users/simsketch/repos/youtube/private/2026-11-01-learjet-greenacres/cinematic/render/PROGRESS.md",
+        "/Users/simsketch/repos/youtube/private/2026-11-01-learjet-greenacres/shorts/08-did-it-level-off-8000-ft/notes.md",
+        "/Users/simsketch/repos/youtube/private/2026-11-01-learjet-greenacres/shorts/02-tail-found-miles-away/notes.md",
+        "/Users/simsketch/repos/youtube/private/2026-11-01-learjet-greenacres/shorts/03-coffin-corner-spiral-dive/notes.md",
+        "/Users/simsketch/repos/youtube/private/2026-11-01-learjet-greenacres/shorts/01-mayday-radio/notes.md",
+        "/Users/simsketch/repos/youtube/private/2026-11-01-learjet-greenacres/shorts/06-mar-a-lago-link-ntsb/notes.md",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-data/codex-1.log",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-speeddraw/title-description.txt",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-flatvector/youtube-description.txt",
+        "Known existing FrameIQ story or publication inventory"
+      ],
+      "storyGroup": "learjet-n722bd"
+    },
+    {
+      "id": "7rd3K8WDtG0",
+      "title": "\u201cThat\u2019s Not Moderate\u201d: The Learjet\u2019s Earlier ATC Call #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-followup/delivery/PUBLISHED.md",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-followup/delivery/upload-package.json"
+      ],
+      "storyGroup": "learjet-n722bd"
+    },
+    {
+      "id": "RIC7xU2GyRw",
+      "title": "Six Months Before the Learjet Crash: The Teterboro ATC Call",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-followup/delivery/PUBLISHED.md",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-followup/delivery/02-turbulence-description.txt",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-followup/delivery/upload-package.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-followup/delivery/03-elevator-description.txt",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-followup/delivery/01-atc-call-description.txt",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-followup/thumbnails/ab-test-v2/README.md",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/boca-electrical/delivery/upload-package.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/boca-electrical/delivery/ntsb-description.txt"
+      ],
+      "storyGroup": "learjet-n722bd"
+    },
+    {
+      "id": "9_Q0Q1DAcGU",
+      "title": "Moderate or Severe? Why This Learjet ATC Exchange Matters #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-followup/delivery/PUBLISHED.md",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-followup/delivery/upload-package.json"
+      ],
+      "storyGroup": "learjet-n722bd"
+    },
+    {
+      "id": "TJAiIAjuCMM",
+      "title": "Learjet Elevator Found 3.8 Miles Away: What It Reveals #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-followup/delivery/PUBLISHED.md",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-followup/delivery/upload-package.json"
+      ],
+      "storyGroup": "learjet-n722bd"
+    },
+    {
+      "id": "MnUiArIkXMc",
+      "title": "Our Learjet Comments Made Big Claims. We Checked Them.",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "learjet-comments-2026-11-11"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/README.md",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/RUN.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-comments-2026-11-11/PROJECT.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-comments-2026-11-11/delivery/upload-metadata.json"
+      ],
+      "storyGroup": "learjet-n722bd"
+    },
+    {
+      "id": "dYHbpArWJ0g",
+      "title": "How Molasses Became a Deadly Flood in Boston #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "frameiq-six-hour-run-2026-11-11/engineering/boston-molasses",
+        "frameiq-six-hour-run-2026-11-11/spacesheep-review/engineering/boston-molasses"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/LIBRARY.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/REVIEW-LIBRARY.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/duplicate-draft-audit.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue-before-batch14-18-finalization.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-11-15-owner-override/boston-public-ax.txt",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-11-15-owner-override/public-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-11-15-owner-override/release-manifest.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-11-15-v4/listening-request-gates.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-11-15-v4/private-upload-results.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-11-15-v4/private-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/engineering/boston-molasses/qa/rollout-v4/youtube-private-upload.json",
+        "YouTube RSS"
+      ],
+      "storyGroup": "boston-molasses"
+    },
+    {
+      "id": "p66uxYh7ils",
+      "title": "How Did a Helicopter Fly in Almost No Air? #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "frameiq-six-hour-run-2026-11-11/space-history/ingenuity-thin-air",
+        "frameiq-six-hour-run-2026-11-11/spacesheep-review/space-history/ingenuity-thin-air"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/LIBRARY.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/REVIEW-LIBRARY.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/space-history/ingenuity-thin-air/qa/rollout-v4/youtube-private-upload.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/duplicate-draft-audit.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue-before-batch14-18-finalization.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-13-17-owner-override/run-result-0649.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-13-17-owner-override/release-manifest.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-13-17-owner-override/public-progress.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-11-15-owner-override/release-manifest.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-11-15-v4/listening-request-gates.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-11-15-v4/private-upload-results.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-11-15-v4/private-verified.json",
+        "YouTube RSS"
+      ],
+      "storyGroup": "ingenuity-thin-air"
+    },
+    {
+      "id": "Mr22cH3ROC0",
+      "title": "Webb\u2019s Mirror Has 18 Pieces. Why Not 18 Pictures? #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "frameiq-six-hour-run-2026-11-11/space-history/webb-mirrors",
+        "frameiq-six-hour-run-2026-11-11/spacesheep-review/space-history/webb-mirrors"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/LIBRARY.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/REVIEW-LIBRARY.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/space-history/webb-mirrors/release-review.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/space-history/webb-mirrors/qa/rollout-footer-v4/youtube-private-proof.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/duplicate-draft-audit.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue-before-batch14-18-finalization.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-19-23-preflight/manifest.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-16-20-v4/private-upload-results.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-16-20-v4/run-summary.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-16-20-v4/private-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-19-23-20261112T0906/20-public.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-19-23-20261112T0906/manifest.json",
+        "YouTube RSS"
+      ],
+      "storyGroup": "webb-mirrors"
+    },
+    {
+      "id": "WPNGwqUeqHk",
+      "title": "Why Is the Middle Still Cold? #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "frameiq-six-hour-run-2026-11-11/microwave-cold-spots",
+        "frameiq-six-hour-run-2026-11-11/spacesheep-review/microwave-cold-spots"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/LIBRARY.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/REVIEW-LIBRARY.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/microwave-cold-spots/qa/rollout-v4/youtube-private-upload.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/duplicate-draft-audit.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue-before-batch14-18-finalization.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-13-17-owner-override/run-result-0649.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-13-17-owner-override/release-manifest.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-11-15-owner-override/release-manifest.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-14-18-owner-override/15-public.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-14-18-owner-override/manifest.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-11-15-v4/listening-request-gates.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-11-15-v4/private-upload-results.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-11-15-v4/private-verified.json",
+        "YouTube RSS"
+      ],
+      "storyGroup": "microwave-cold-spots"
+    },
+    {
+      "id": "xXdvwuj-ddk",
+      "title": "NASA's Swift Fell Back to Earth. Here's Why Orbits Decay. #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "frameiq-six-hour-run-2026-11-11/spacesheep-review/swift-reentry",
+        "frameiq-six-hour-run-2026-11-11/swift-reentry"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/LIBRARY.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/REVIEW-LIBRARY.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/swift-reentry/qa/user-listening-review-2026-11-11.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/swift-reentry/qa/rollout-v4/youtube-private-upload.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/duplicate-draft-audit.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/current-private-release-gates.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue-before-batch14-18-finalization.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-publication.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-public-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-public-table-proof.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-prepublish-gates.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/next-five-v4/private-upload-results.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/next-five-v4/private-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/next-five-qa/release-summary.json"
+      ],
+      "storyGroup": "swift-reentry"
+    },
+    {
+      "id": "2GwvVGsoAkc",
+      "title": "One Loose Wire. Baltimore\u2019s Key Bridge Disaster. #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "frameiq-six-hour-run-2026-11-11/engineering/dali-key-bridge",
+        "frameiq-six-hour-run-2026-11-11/spacesheep-review/engineering/dali-key-bridge"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/LIBRARY.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/REVIEW-LIBRARY.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/duplicate-draft-audit.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue-before-batch14-18-finalization.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-19-23-preflight/manifest.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-16-20-v4/private-upload-results.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-16-20-v4/run-summary.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-16-20-v4/private-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-19-23-20261112T0906/manifest.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-19-23-20261112T0906/19-public.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/engineering/dali-key-bridge/release-review.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/engineering/dali-key-bridge/qa/rollout-footer-v4/youtube-private-proof.json",
+        "YouTube RSS"
+      ],
+      "storyGroup": "dali-key-bridge"
+    },
+    {
+      "id": "osdlbTRcRvE",
+      "title": "How Volcanic Ash Can Glaze a Jet Engine #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "frameiq-six-hour-run-2026-11-11/natural-hazards/volcanic-ash-engines",
+        "frameiq-six-hour-run-2026-11-11/spacesheep-review/natural-hazards/volcanic-ash-engines"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/LIBRARY.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/REVIEW-LIBRARY.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/duplicate-draft-audit.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue-before-batch14-18-finalization.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-13-17-owner-override/run-result-0649.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-13-17-owner-override/release-manifest.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-11-15-owner-override/release-manifest.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-14-18-owner-override/14-public.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-14-18-owner-override/manifest.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-11-15-v4/listening-request-gates.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-11-15-v4/private-upload-results.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-11-15-v4/private-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/natural-hazards/volcanic-ash-engines/qa/rollout-v4/youtube-private-upload.json",
+        "YouTube RSS"
+      ],
+      "storyGroup": "volcanic-ash-engines"
+    },
+    {
+      "id": "U2W5mxaP-V4",
+      "title": "The Wind Didn't Just Push This Bridge. It Fed the Motion. #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "frameiq-six-hour-run-2026-11-11/engineering/tacoma-narrows",
+        "frameiq-six-hour-run-2026-11-11/spacesheep-review/engineering/tacoma-narrows"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/LIBRARY.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/REVIEW-LIBRARY.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/spacesheep-review/index.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/spacesheep-review/library.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/duplicate-draft-audit.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/first-five-publication.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue-before-batch14-18-finalization.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/prepublish-gates.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/duplicate-draft-audit.md"
+      ],
+      "storyGroup": "tacoma-narrows"
+    },
+    {
+      "id": "sqSpm6CQ1SQ",
+      "title": "Why NASA\u2019s Mars Probes Came Back to Earth First #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "frameiq-six-hour-run-2026-11-11/space-history/escapade-flyby",
+        "frameiq-six-hour-run-2026-11-11/spacesheep-review/space-history/escapade-flyby"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/LIBRARY.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/REVIEW-LIBRARY.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/space-history/escapade-flyby/qa/rollout-v4/youtube-private-upload.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/duplicate-draft-audit.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue-before-batch14-18-finalization.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-11-15-owner-override/public-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-11-15-owner-override/release-manifest.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-11-15-v4/listening-request-gates.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-11-15-v4/private-upload-results.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-11-15-v4/private-verified.json",
+        "YouTube RSS"
+      ],
+      "storyGroup": "escapade-flyby"
+    },
+    {
+      "id": "eM-3Li01yPY",
+      "title": "How Do You Repair the Internet on the Ocean Floor? #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "frameiq-six-hour-run-2026-11-11/spacesheep-review/undersea-internet",
+        "frameiq-six-hour-run-2026-11-11/undersea-internet"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/LIBRARY.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/REVIEW-LIBRARY.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/duplicate-draft-audit.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/current-private-release-gates.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue-before-batch14-18-finalization.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-publication.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-public-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-public-table-proof.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-prepublish-gates.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/next-five-v4/private-upload-results.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/next-five-v4/private-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/next-five-qa/release-summary.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/undersea-internet/qa/user-listening-review-2026-11-11.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/undersea-internet/qa/rollout-v4/youtube-private-upload.json",
+        "YouTube RSS"
+      ],
+      "storyGroup": "undersea-internet"
+    },
+    {
+      "id": "eSEbqWERlEY",
+      "title": "Why Earthquake Ground Can Act Like a Liquid #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "frameiq-six-hour-run-2026-11-11/natural-hazards/liquefaction",
+        "frameiq-six-hour-run-2026-11-11/spacesheep-review/natural-hazards/liquefaction"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/LIBRARY.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/REVIEW-LIBRARY.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/duplicate-draft-audit.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue-before-batch14-18-finalization.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-13-17-owner-override/run-result-0649.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-13-17-owner-override/release-manifest.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-16-20-v4/private-upload-results.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-16-20-v4/run-summary.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-16-20-v4/private-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-14-18-owner-override/17-public.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-14-18-owner-override/manifest.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/natural-hazards/liquefaction/release-review.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/natural-hazards/liquefaction/qa/rollout-footer-v4/youtube-private-proof.json",
+        "YouTube RSS"
+      ],
+      "storyGroup": "liquefaction"
+    },
+    {
+      "id": "H7z7jL3ae7c",
+      "title": "Apollo 13 Had Oxygen. The Air Was Still a Threat. #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "frameiq-six-hour-run-2026-11-11/space-history/apollo-13-filter",
+        "frameiq-six-hour-run-2026-11-11/spacesheep-review/space-history/apollo-13-filter"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/LIBRARY.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/REVIEW-LIBRARY.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/space-history/apollo-13-filter/qa/user-listening-review-2026-11-11.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/space-history/apollo-13-filter/qa/rollout-v4/youtube-private-upload.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/duplicate-draft-audit.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/current-private-release-gates.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue-before-batch14-18-finalization.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-publication.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-public-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-public-table-proof.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-prepublish-gates.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/next-five-v4/private-upload-results.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/next-five-v4/private-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/next-five-qa/release-summary.json"
+      ],
+      "storyGroup": "apollo-13-filter"
+    },
+    {
+      "id": "IVbfLmHgrGk",
+      "title": "The Tiny Gap Behind Challenger\u2019s Disaster #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "frameiq-six-hour-run-2026-11-11/space-history/challenger-joint",
+        "frameiq-six-hour-run-2026-11-11/spacesheep-review/space-history/challenger-joint"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/LIBRARY.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/REVIEW-LIBRARY.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/space-history/challenger-joint/release-review.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/space-history/challenger-joint/publication/v5-official-checks.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/space-history/challenger-joint/publication/v5-public-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue.json",
+        "YouTube RSS"
+      ],
+      "storyGroup": "challenger-joint"
+    },
+    {
+      "id": "fCIWTD7Ttfk",
+      "title": "Titan: Why Damage Between Layers Mattered #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "frameiq-six-hour-run-2026-11-11/engineering/titan-pressure-hull",
+        "frameiq-six-hour-run-2026-11-11/spacesheep-review/engineering/titan-pressure-hull"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/LIBRARY.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/REVIEW-LIBRARY.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/spacesheep-review/index.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/spacesheep-review/library.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/duplicate-draft-audit.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/first-five-publication.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue-before-batch14-18-finalization.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/prepublish-gates.json"
+      ],
+      "storyGroup": "titan-pressure-hull"
+    },
+    {
+      "id": "di84Od-A15w",
+      "title": "The Lake That Released an Invisible Killer #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "frameiq-six-hour-run-2026-11-11/natural-hazards/lake-nyos",
+        "frameiq-six-hour-run-2026-11-11/natural-hazards/lake-nyos/qa/pre-factual-correction",
+        "frameiq-six-hour-run-2026-11-11/spacesheep-review/natural-hazards/lake-nyos"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/LIBRARY.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/REVIEW-LIBRARY.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/spacesheep-review/index.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/spacesheep-review/library.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/duplicate-draft-audit.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/first-five-publication.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue-before-batch14-18-finalization.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/prepublish-gates.json"
+      ],
+      "storyGroup": "lake-nyos"
+    },
+    {
+      "id": "Rl6wSFFmbeU",
+      "title": "Johnstown: The Flood Began Fourteen Miles Away #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "frameiq-six-hour-run-2026-11-11/engineering/johnstown-flood",
+        "frameiq-six-hour-run-2026-11-11/spacesheep-review/engineering/johnstown-flood"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/LIBRARY.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/REVIEW-LIBRARY.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/duplicate-draft-audit.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue-before-batch14-18-finalization.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-13-17-owner-override/run-result-0649.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-13-17-owner-override/release-manifest.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-16-20-v4/private-upload-results.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-16-20-v4/run-summary.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/batch-16-20-v4/private-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-14-18-owner-override/manifest.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/public-batch-14-18-owner-override/16-public.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/engineering/johnstown-flood/release-review.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/engineering/johnstown-flood/qa/rollout-footer-v4/youtube-private-proof.json",
+        "YouTube RSS"
+      ],
+      "storyGroup": "johnstown-flood"
+    },
+    {
+      "id": "kp3sIvuJuXI",
+      "title": "Why a Tsunami Can Hide Beneath a Ship #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "frameiq-six-hour-run-2026-11-11/natural-hazards/tsunami-shoaling",
+        "frameiq-six-hour-run-2026-11-11/spacesheep-review/natural-hazards/tsunami-shoaling"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/LIBRARY.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/REVIEW-LIBRARY.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/duplicate-draft-audit.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/current-private-release-gates.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue-before-batch14-18-finalization.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-publication.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-public-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-public-table-proof.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-prepublish-gates.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/next-five-v4/private-upload-results.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/next-five-v4/private-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/next-five-qa/release-summary.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/natural-hazards/tsunami-shoaling/qa/user-listening-review-2026-11-11.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/natural-hazards/tsunami-shoaling/qa/rollout-v4/youtube-private-upload.json",
+        "YouTube RSS"
+      ],
+      "storyGroup": "tsunami-shoaling"
+    },
+    {
+      "id": "s9Anz5XmBs0",
+      "title": "A Small Change Rerouted the Load. Two Walkways Collapsed. #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "frameiq-six-hour-run-2026-11-11/engineering/hyatt-walkways",
+        "frameiq-six-hour-run-2026-11-11/spacesheep-review/engineering/hyatt-walkways"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/LIBRARY.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/REVIEW-LIBRARY.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/duplicate-draft-audit.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/current-private-release-gates.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue-before-batch14-18-finalization.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-publication.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-public-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-public-table-proof.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/second-five-prepublish-gates.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/next-five-v4/private-upload-results.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/next-five-v4/private-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/next-five-qa/release-summary.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/engineering/hyatt-walkways/qa/user-listening-review-2026-11-11.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/engineering/hyatt-walkways/qa/rollout-v4/youtube-private-upload.json",
+        "YouTube RSS"
+      ],
+      "storyGroup": "hyatt-walkways"
+    },
+    {
+      "id": "0d2OA5LW4AE",
+      "title": "Why Does a Tiny Quantum Chip Need This Giant Fridge? #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "frameiq-six-hour-run-2026-11-11/quantum-fridge",
+        "frameiq-six-hour-run-2026-11-11/spacesheep-review/quantum-fridge"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/LIBRARY.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/REVIEW-LIBRARY.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/spacesheep-review/index.html",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/spacesheep-review/library.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/duplicate-draft-audit.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/first-five-publication.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue-before-batch14-18-finalization.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/queue.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/frameiq-six-hour-run-2026-11-11/youtube-rollout-2026-11-11/prepublish-gates.json"
+      ],
+      "storyGroup": "quantum-fridge"
+    },
+    {
+      "id": "7i2q7oVEfJQ",
+      "title": "Jensen Huang Could Be Ousted. Who Decides? #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "jensen-board-2026-11-11"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/jensen-board-2026-11-11/release-review.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/jensen-board-2026-11-11/publication/intent.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/jensen-board-2026-11-11/publication/public-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/jensen-board-2026-11-11/publication/youtube-ui-evidence.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/jensen-board-2026-11-11/publication/owner-release-decision.json",
+        "YouTube RSS"
+      ],
+      "storyGroup": "jensen-huang-board"
+    },
+    {
+      "id": "22zfCyzaLfw",
+      "title": "Was the Learjet Crash Linked to Mar-a-Lago? What the NTSB Said",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/learjet-comments-2026-11-11/research/comments.json",
+        "/Users/simsketch/repos/youtube/private/2026-11-01-learjet-greenacres/shorts/SCHEDULE.md",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-data/codex-1.log",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-flatvector/shorts/codex.log"
+      ],
+      "storyGroup": "learjet-n722bd"
+    },
+    {
+      "id": "j9EBYbho4WI",
+      "title": "Jensen Huang: The Affairs, the Warning, and the Board\u2019s Next Move #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [
+        "jensen-newsroom-2026-11-11"
+      ],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/jensen-newsroom-2026-11-11/release-review.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/jensen-newsroom-2026-11-11/publication/direct-public-verified.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/jensen-newsroom-2026-11-11/publication/direct-upload-intent.json",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/jensen-newsroom-2026-11-11/delivery/CURRENT.json",
+        "YouTube RSS"
+      ],
+      "storyGroup": "jensen-huang-board"
+    },
+    {
+      "id": "x9pfWcfm7Zg",
+      "title": "Father and Daughter Flew Separate Jets. One Didn\u2019t Return. #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/boca-electrical/README.md",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/boca-electrical/delivery/PUBLISHED.md",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/boca-electrical/delivery/upload-package.json"
+      ],
+      "storyGroup": "kentucky-l39-crash"
+    },
+    {
+      "id": "l_RebWnHj6Q",
+      "title": "Cessna Hits Pickup on Florida Road: What We Know #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/boca-electrical/README.md",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/boca-electrical/delivery/PUBLISHED.md",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/boca-electrical/delivery/upload-package.json"
+      ],
+      "storyGroup": "bayshore-cessna"
+    },
+    {
+      "id": "JZBeZHtei_k",
+      "title": "Learjet Cockpit Recorder Recovered: What the NTSB Update Means #Shorts",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/Documents/ChatGPT/content-machine/boca-electrical/README.md",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/boca-electrical/delivery/PUBLISHED.md",
+        "/Users/simsketch/Documents/ChatGPT/content-machine/boca-electrical/delivery/upload-package.json"
+      ],
+      "storyGroup": "learjet-n722bd"
+    },
+    {
+      "id": "TdEiewhQyzc",
+      "title": "Learjet Storm Tops: 45,000 Feet vs Jet at 35,000",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/repos/youtube/private/2026-11-01-learjet-greenacres/shorts/SCHEDULE.md"
+      ],
+      "storyGroup": "learjet-n722bd"
+    },
+    {
+      "id": "8edQBZgf5oI",
+      "title": "What Is a Micromort? 1-in-a-Million Risk Explained",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/repos/youtube/private/2026-11-01-learjet-greenacres/shorts/SCHEDULE.md"
+      ],
+      "storyGroup": "commercial-vs-private"
+    },
+    {
+      "id": "Sw75yKbMXUs",
+      "title": "Greenacres Learjet Crash: Did Ice Cause It, or Did the Dive Tear Off the Tail?",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/repos/youtube/private/2026-11-01-learjet-greenacres/shorts/SCHEDULE.md",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-data/codex-1.log",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-flatvector/shorts/codex.log"
+      ],
+      "storyGroup": "learjet-n722bd"
+    },
+    {
+      "id": "bmefYTzjSkc",
+      "title": "Found Learjet Debris in Greenacres? Tell the NTSB",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/repos/youtube/private/2026-11-01-learjet-greenacres/shorts/SCHEDULE.md",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-data/codex-1.log",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-flatvector/shorts/codex.log"
+      ],
+      "storyGroup": "learjet-n722bd"
+    },
+    {
+      "id": "7jh93LIenfI",
+      "title": "Did Learjet N722BD Level Off at 8,000 Feet? The Raw Data",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/repos/youtube/private/2026-11-01-learjet-greenacres/shorts/SCHEDULE.md",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-data/codex-1.log",
+        "/Users/simsketch/repos/youtube/explainers/2026-11-learjet-flatvector/shorts/codex.log"
+      ],
+      "storyGroup": "learjet-n722bd"
+    },
+    {
+      "id": "grPmD3uFviw",
+      "title": "Learjet Pitot Icing: How Ice Can Fool Airspeed",
+      "author_name": "FrameIQ",
+      "status": 200,
+      "projects": [],
+      "evidencePaths": [
+        "/Users/simsketch/repos/youtube/private/2026-11-01-learjet-greenacres/shorts/SCHEDULE.md"
+      ],
+      "storyGroup": "learjet-n722bd"
+    }
+  ],
+  "skippedProjects": [
+    {
+      "project": "dirty-dining-2026-11-11",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/abs-brake-control",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/elevator-safety",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/aloha-lap-joints",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/cabin-outflow",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/chernobyl-shutdown",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/concrete-rebar",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/deepwater-bop",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/fukushima-decay-heat",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/halifax-explosion",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/helicopter-tail-thrust",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/hindenburg-gas-cells",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/hydraulic-excavator",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/i35w-gusset-plates",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/imperial-sugar-dust",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/pump-cavitation",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/rail-heat-buckling",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/silver-bridge",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/submarine-ballast",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/texas-city-refinery",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/titanic-bulkheads",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/vajont-wave",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/engineering/water-hammer",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/gps-relativity",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/heat-pump-cycle",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/induction-cooking",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/natural-hazards/armero-lahar",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/natural-hazards/chelyabinsk-airburst",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/natural-hazards/dry-canyon-flash-flood",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/natural-hazards/frost-wedging",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/natural-hazards/geyser-pressure",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/natural-hazards/hail-growth",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/natural-hazards/lightning-thunder",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/natural-hazards/lituya-runup",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/natural-hazards/london-great-smog",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/natural-hazards/rip-current-channel",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/natural-hazards/rogue-waves",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/natural-hazards/sinkhole-collapse",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/natural-hazards/slab-avalanche",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/natural-hazards/storm-surge",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/natural-hazards/tambora-1816",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/natural-hazards/urban-heat-island",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/natural-hazards/wildfire-embers",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/natural-hazards/wind-turbine-feathering",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/navajo-reservoir",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/noise-cancelling-headphones",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/ozone-hole-2026",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/panama-locks",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/powerbank-warning",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/qr-error-correction",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/smoke-alarm-light",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/space-history/apollo-11-alarm",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/space-history/bennu-soft-surface",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/space-history/columbia-foam",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/space-history/dart-asteroid",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/space-history/enceladus-ocean",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/space-history/hubble-glasses",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/space-history/iss-freefall",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/space-history/lunar-tidal-locking",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/space-history/mars-units",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/space-history/moon-laser",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/space-history/parker-heat-shield",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/space-history/rocket-max-q",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/space-history/saturn-rings-edge-on",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/space-history/venus-day-year",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/space-history/voyager-light-day",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/space-history/voyager-power",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/sprinkler-heat-release",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "frameiq-six-hour-run-2026-11-11/turbine-blade-cooling",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "news-explained-2026-11-12/brooklyn-collapse",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "news-explained-2026-11-12/israel-coalition",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    },
+    {
+      "project": "news-explained-2026-11-12/rubio-arms-financing",
+      "reason": "No public FrameIQ video found in RSS or scoped project IDs (oEmbed)."
+    }
+  ]
+}

@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import SiteChrome from "@/components/SiteChrome";
+import StoryCard from "@/components/StoryCard";
+import { stories } from "@/lib/stories";
 import { getLatestVideos, type YouTubeVideo } from "@/lib/youtube";
 
 export const revalidate = 1800;
@@ -73,7 +75,7 @@ export default async function Home() {
 
         <section id="stories" className="stories-section" aria-labelledby="stories-title">
           <div className="shell section"><div className="section-heading"><div><p className="eyebrow">02 / Beyond the video</p><h2 id="stories-title">The story behind the frame.</h2></div><Link className="text-link" href="/stories">All stories <span aria-hidden="true">↗</span></Link></div>
-            <Link className="home-story" href="/stories/learjet-n722bd"><div><span className="data-chip">Aviation / Developing story</span><h3>The Learjet 60 Crash in Greenacres, Florida (N722BD)</h3><p>The timeline, the public videos, and the boundary between established facts and analysis.</p></div><span className="story-arrow" aria-hidden="true">↗</span></Link>
+            <div className="story-grid">{stories.slice(0, 4).map((story) => <StoryCard key={story.slug} story={story} heading="h3" />)}</div>
           </div>
         </section>
 

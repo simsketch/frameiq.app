@@ -131,12 +131,19 @@ body { margin: 0; background: white; color: var(--ink); font-family: var(--font-
 .channel .story-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px; }
 .channel .story-card { display: block; background: var(--blue); color: white; }
 .channel .story-card .eyebrow, .channel .story-card .text-link { color: white; }
+.channel .story-card :focus-visible { outline-color: var(--yellow); }
+.channel .stories-section .story-card .eyebrow, .channel .stories-section .story-card .text-link { color: white; }
+.channel .story-filters { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 24px; }
+.channel .story-filters button { min-height: 44px; padding: 10px 16px; border: 2px solid var(--blue); background: white; color: var(--blue); font: inherit; font-size: 13px; font-weight: 700; cursor: pointer; }
+.channel .story-filters button[aria-pressed="true"] { background: var(--blue); color: white; }
+.channel .story-filters button:hover { background: var(--yellow); color: var(--ink); }
+.channel .story-count { margin-bottom: 24px; font-family: var(--font-plex-mono), monospace; font-size: 12px; }
 .channel .story-thumbnail { display: block; width: 100%; aspect-ratio: 16 / 9; overflow: hidden; }
 .channel .story-thumbnail img { height: 100%; object-fit: cover; }
 .channel .story-card > div { padding: 28px; }
-.channel .story-card h2 { font-size: 30px; margin-block: 16px; }
+.channel .story-card h2, .channel .story-card h3 { font-size: 30px; margin-block: 16px; line-height: 1.08; text-transform: uppercase; letter-spacing: -.035em; }
 .channel .story-card p { font-size: 15px; margin-bottom: 20px; }
-.channel .story-card h2 a:hover { text-decoration: underline; text-underline-offset: 5px; }
+.channel .story-card :is(h2, h3) a:hover { text-decoration: underline; text-underline-offset: 5px; }
 .channel .story-meta { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 24px; font-size: 12px; }
 .channel .story-article .page-intro > .eyebrow { margin-top: 24px; }
 .channel .story-article .page-intro > .story-meta { font-size: 12px; }

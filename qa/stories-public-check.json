@@ -1,0 +1,557 @@
+{
+  "checkedAt": "2026-11-12T10:22:17.356Z",
+  "stories": [
+    {
+      "slug": "ai-power-grid",
+      "videos": [
+        "BOS9RSEiIfk"
+      ],
+      "sources": 3
+    },
+    {
+      "slug": "airline-private-flying-safety",
+      "videos": [
+        "cuANLbwMl5M",
+        "WsePyQYIYKg",
+        "N1MAtM3zxl8",
+        "OvUHlRR_vsU",
+        "8edQBZgf5oI"
+      ],
+      "sources": 4
+    },
+    {
+      "slug": "apollo-13-filter",
+      "videos": [
+        "H7z7jL3ae7c"
+      ],
+      "sources": 2
+    },
+    {
+      "slug": "bayshore-road-landing",
+      "videos": [
+        "l_RebWnHj6Q"
+      ],
+      "sources": 4
+    },
+    {
+      "slug": "boca-raton-electrical-scare",
+      "videos": [
+        "dqfYOmC3VEg"
+      ],
+      "sources": 3
+    },
+    {
+      "slug": "boston-molasses",
+      "videos": [
+        "dYHbpArWJ0g"
+      ],
+      "sources": 3
+    },
+    {
+      "slug": "challenger-joint",
+      "videos": [
+        "IVbfLmHgrGk"
+      ],
+      "sources": 3
+    },
+    {
+      "slug": "dali-key-bridge",
+      "videos": [
+        "2GwvVGsoAkc"
+      ],
+      "sources": 3
+    },
+    {
+      "slug": "deerfield-checkers",
+      "videos": [
+        "CYmm-0p-8Bw"
+      ],
+      "sources": 4
+    },
+    {
+      "slug": "edmund-fitzgerald",
+      "videos": [
+        "k1NbZIw-Hus"
+      ],
+      "sources": 3
+    },
+    {
+      "slug": "escapade-flyby",
+      "videos": [
+        "sqSpm6CQ1SQ"
+      ],
+      "sources": 2
+    },
+    {
+      "slug": "gwinnett-plane-crash",
+      "videos": [
+        "raWMLZh7GQw"
+      ],
+      "sources": 3
+    },
+    {
+      "slug": "hamburg-iowa-crash",
+      "videos": [
+        "9oijiOCHJq8"
+      ],
+      "sources": 4
+    },
+    {
+      "slug": "hyatt-walkways",
+      "videos": [
+        "s9Anz5XmBs0"
+      ],
+      "sources": 2
+    },
+    {
+      "slug": "ingenuity-thin-air",
+      "videos": [
+        "p66uxYh7ils"
+      ],
+      "sources": 4
+    },
+    {
+      "slug": "jensen-huang",
+      "videos": [
+        "j9EBYbho4WI",
+        "7i2q7oVEfJQ"
+      ],
+      "sources": 2
+    },
+    {
+      "slug": "johnstown-flood",
+      "videos": [
+        "Rl6wSFFmbeU"
+      ],
+      "sources": 3
+    },
+    {
+      "slug": "kentucky-l39-crash",
+      "videos": [
+        "x9pfWcfm7Zg"
+      ],
+      "sources": 4
+    },
+    {
+      "slug": "lake-nyos",
+      "videos": [
+        "di84Od-A15w"
+      ],
+      "sources": 3
+    },
+    {
+      "slug": "lax-close-call",
+      "videos": [
+        "vRB2jvToKR4"
+      ],
+      "sources": 5
+    },
+    {
+      "slug": "learjet-n722bd",
+      "videos": [
+        "QfEGcw0wwt0",
+        "Ssnn5VR2Tb4",
+        "jLFZ3hOuH-I",
+        "RIC7xU2GyRw",
+        "7rd3K8WDtG0",
+        "9_Q0Q1DAcGU",
+        "TJAiIAjuCMM",
+        "JZBeZHtei_k",
+        "8qmRaJ9Sb_4",
+        "MnUiArIkXMc",
+        "KH5_p9inYfE",
+        "22zfCyzaLfw",
+        "Sw75yKbMXUs",
+        "TdEiewhQyzc",
+        "bmefYTzjSkc",
+        "7jh93LIenfI",
+        "grPmD3uFviw"
+      ],
+      "sources": 12
+    },
+    {
+      "slug": "liquefaction",
+      "videos": [
+        "eSEbqWERlEY"
+      ],
+      "sources": 3
+    },
+    {
+      "slug": "microwave-cold-spots",
+      "videos": [
+        "WPNGwqUeqHk"
+      ],
+      "sources": 4
+    },
+    {
+      "slug": "quantum-fridge",
+      "videos": [
+        "0d2OA5LW4AE"
+      ],
+      "sources": 5
+    },
+    {
+      "slug": "swift-reentry",
+      "videos": [
+        "xXdvwuj-ddk"
+      ],
+      "sources": 4
+    },
+    {
+      "slug": "tacoma-narrows",
+      "videos": [
+        "U2W5mxaP-V4"
+      ],
+      "sources": 2
+    },
+    {
+      "slug": "titan-pressure-hull",
+      "videos": [
+        "fCIWTD7Ttfk"
+      ],
+      "sources": 3
+    },
+    {
+      "slug": "tsunami-shoaling",
+      "videos": [
+        "kp3sIvuJuXI"
+      ],
+      "sources": 4
+    },
+    {
+      "slug": "undersea-internet",
+      "videos": [
+        "eM-3Li01yPY"
+      ],
+      "sources": 4
+    },
+    {
+      "slug": "volcanic-ash-engines",
+      "videos": [
+        "osdlbTRcRvE"
+      ],
+      "sources": 6
+    },
+    {
+      "slug": "webb-mirrors",
+      "videos": [
+        "Mr22cH3ROC0"
+      ],
+      "sources": 3
+    }
+  ],
+  "videos": [
+    {
+      "id": "BOS9RSEiIfk",
+      "title": "Why a Finished AI Data Center Can Still Wait for Electricity #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "cuANLbwMl5M",
+      "title": "Airline vs Private Flying: What the Safety Data Shows #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "WsePyQYIYKg",
+      "title": "Leather Seats Don’t Make a Flight Safer #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "N1MAtM3zxl8",
+      "title": "100,000 Flight Hours: Airline vs Private Flying #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "OvUHlRR_vsU",
+      "title": "How Safe Are Private Jets? Learjet 60 Safety by the Numbers",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "8edQBZgf5oI",
+      "title": "What Is a Micromort? 1-in-a-Million Risk Explained",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "H7z7jL3ae7c",
+      "title": "Apollo 13 Had Oxygen. The Air Was Still a Threat. #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "l_RebWnHj6Q",
+      "title": "Cessna Hits Pickup on Florida Road: What We Know #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "dqfYOmC3VEg",
+      "title": "Can a Plane Land Without Electricity? Boca Raton Scare Explained #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "dYHbpArWJ0g",
+      "title": "How Molasses Became a Deadly Flood in Boston #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "IVbfLmHgrGk",
+      "title": "The Tiny Gap Behind Challenger’s Disaster #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "2GwvVGsoAkc",
+      "title": "One Loose Wire. Baltimore’s Key Bridge Disaster. #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "CYmm-0p-8Bw",
+      "title": "Body Found at Checkers: BSO Update & Broward Homicide Context #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "k1NbZIw-Hus",
+      "title": "Edmund Fitzgerald: No Call Heard, But Trouble Was Reported",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "sqSpm6CQ1SQ",
+      "title": "Why NASA’s Mars Probes Came Back to Earth First #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "raWMLZh7GQw",
+      "title": "Gwinnett County Plane Crash: What We Know",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "9oijiOCHJq8",
+      "title": "Hamburg, Iowa: Victims Identified, Cause Unknown",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "s9Anz5XmBs0",
+      "title": "A Small Change Rerouted the Load. Two Walkways Collapsed. #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "p66uxYh7ils",
+      "title": "How Did a Helicopter Fly in Almost No Air? #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "j9EBYbho4WI",
+      "title": "Jensen Huang: The Affairs, the Warning, and the Board’s Next Move #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "7i2q7oVEfJQ",
+      "title": "Jensen Huang Could Be Ousted. Who Decides? #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "Rl6wSFFmbeU",
+      "title": "Johnstown: The Flood Began Fourteen Miles Away #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "x9pfWcfm7Zg",
+      "title": "Father and Daughter Flew Separate Jets. One Didn’t Return. #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "di84Od-A15w",
+      "title": "The Lake That Released an Invisible Killer #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "vRB2jvToKR4",
+      "title": "One Turn Put Two Departing Jets in Conflict at LAX",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "QfEGcw0wwt0",
+      "title": "Inside the Storm: A 3D Reconstruction of the Learjet N722BD Crash",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "Ssnn5VR2Tb4",
+      "title": "Why Did the Learjet Crash in Greenacres? Ice, or a Breakup?",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "jLFZ3hOuH-I",
+      "title": "35,000 Feet in 75 Seconds: The Last Flight of Learjet 60 N722BD, Explained",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "RIC7xU2GyRw",
+      "title": "Six Months Before the Learjet Crash: The Teterboro ATC Call",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "7rd3K8WDtG0",
+      "title": "“That’s Not Moderate”: The Learjet’s Earlier ATC Call #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "9_Q0Q1DAcGU",
+      "title": "Moderate or Severe? Why This Learjet ATC Exchange Matters #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "TJAiIAjuCMM",
+      "title": "Learjet Elevator Found 3.8 Miles Away: What It Reveals #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "JZBeZHtei_k",
+      "title": "Learjet Cockpit Recorder Recovered: What the NTSB Update Means #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "8qmRaJ9Sb_4",
+      "title": "Why the Learjet Left a Crater: The Physics Explained",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "MnUiArIkXMc",
+      "title": "Our Learjet Comments Made Big Claims. We Checked Them.",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "KH5_p9inYfE",
+      "title": "35,000 Feet in 75 Seconds: The Last Flight of Learjet 60 N722BD, Explained",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "22zfCyzaLfw",
+      "title": "Was the Learjet Crash Linked to Mar-a-Lago? What the NTSB Said",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "Sw75yKbMXUs",
+      "title": "Greenacres Learjet Crash: Did Ice Cause It, or Did the Dive Tear Off the Tail?",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "TdEiewhQyzc",
+      "title": "Learjet Storm Tops: 45,000 Feet vs Jet at 35,000",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "bmefYTzjSkc",
+      "title": "Found Learjet Debris in Greenacres? Tell the NTSB",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "7jh93LIenfI",
+      "title": "Did Learjet N722BD Level Off at 8,000 Feet? The Raw Data",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "grPmD3uFviw",
+      "title": "Learjet Pitot Icing: How Ice Can Fool Airspeed",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "eSEbqWERlEY",
+      "title": "Why Earthquake Ground Can Act Like a Liquid #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "WPNGwqUeqHk",
+      "title": "Why Is the Middle Still Cold? #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "0d2OA5LW4AE",
+      "title": "Why Does a Tiny Quantum Chip Need This Giant Fridge? #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "xXdvwuj-ddk",
+      "title": "NASA's Swift Fell Back to Earth. Here's Why Orbits Decay. #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "U2W5mxaP-V4",
+      "title": "The Wind Didn't Just Push This Bridge. It Fed the Motion. #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "fCIWTD7Ttfk",
+      "title": "Titan: Why Damage Between Layers Mattered #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "kp3sIvuJuXI",
+      "title": "Why a Tsunami Can Hide Beneath a Ship #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "eM-3Li01yPY",
+      "title": "How Do You Repair the Internet on the Ocean Floor? #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "osdlbTRcRvE",
+      "title": "How Volcanic Ash Can Glaze a Jet Engine #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    },
+    {
+      "id": "Mr22cH3ROC0",
+      "title": "Webb’s Mirror Has 18 Pieces. Why Not 18 Pictures? #Shorts",
+      "author": "FrameIQ",
+      "status": 200
+    }
+  ]
+}

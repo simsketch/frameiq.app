@@ -1,0 +1,174 @@
+{
+  "routes": [
+    {
+      "route": "/stories/ai-power-grid",
+      "status": 200
+    },
+    {
+      "route": "/stories/airline-private-flying-safety",
+      "status": 200
+    },
+    {
+      "route": "/stories/apollo-13-filter",
+      "status": 200
+    },
+    {
+      "route": "/stories/bayshore-road-landing",
+      "status": 200
+    },
+    {
+      "route": "/stories/boca-raton-electrical-scare",
+      "status": 200
+    },
+    {
+      "route": "/stories/boston-molasses",
+      "status": 200
+    },
+    {
+      "route": "/stories/challenger-joint",
+      "status": 200
+    },
+    {
+      "route": "/stories/dali-key-bridge",
+      "status": 200
+    },
+    {
+      "route": "/stories/deerfield-checkers",
+      "status": 200
+    },
+    {
+      "route": "/stories/edmund-fitzgerald",
+      "status": 200
+    },
+    {
+      "route": "/stories/escapade-flyby",
+      "status": 200
+    },
+    {
+      "route": "/stories/gwinnett-plane-crash",
+      "status": 200
+    },
+    {
+      "route": "/stories/hamburg-iowa-crash",
+      "status": 200
+    },
+    {
+      "route": "/stories/hyatt-walkways",
+      "status": 200
+    },
+    {
+      "route": "/stories/ingenuity-thin-air",
+      "status": 200
+    },
+    {
+      "route": "/stories/jensen-huang",
+      "status": 200
+    },
+    {
+      "route": "/stories/johnstown-flood",
+      "status": 200
+    },
+    {
+      "route": "/stories/kentucky-l39-crash",
+      "status": 200
+    },
+    {
+      "route": "/stories/lake-nyos",
+      "status": 200
+    },
+    {
+      "route": "/stories/lax-close-call",
+      "status": 200
+    },
+    {
+      "route": "/stories/learjet-n722bd",
+      "status": 200
+    },
+    {
+      "route": "/stories/liquefaction",
+      "status": 200
+    },
+    {
+      "route": "/stories/microwave-cold-spots",
+      "status": 200
+    },
+    {
+      "route": "/stories/quantum-fridge",
+      "status": 200
+    },
+    {
+      "route": "/stories/swift-reentry",
+      "status": 200
+    },
+    {
+      "route": "/stories/tacoma-narrows",
+      "status": 200
+    },
+    {
+      "route": "/stories/titan-pressure-hull",
+      "status": 200
+    },
+    {
+      "route": "/stories/tsunami-shoaling",
+      "status": 200
+    },
+    {
+      "route": "/stories/undersea-internet",
+      "status": 200
+    },
+    {
+      "route": "/stories/volcanic-ash-engines",
+      "status": 200
+    },
+    {
+      "route": "/stories/webb-mirrors",
+      "status": 200
+    }
+  ],
+  "screenshots": [
+    {
+      "route": "/stories",
+      "width": 1440,
+      "file": "qa/stories-index-1440.png",
+      "noHorizontalOverflow": true
+    },
+    {
+      "route": "/stories/challenger-joint",
+      "width": 1440,
+      "file": "qa/challenger-joint-1440.png",
+      "noHorizontalOverflow": true
+    },
+    {
+      "route": "/stories/jensen-huang",
+      "width": 1440,
+      "file": "qa/jensen-huang-1440.png",
+      "noHorizontalOverflow": true
+    },
+    {
+      "route": "/stories",
+      "width": 390,
+      "file": "qa/stories-index-390.png",
+      "noHorizontalOverflow": true
+    },
+    {
+      "route": "/stories/challenger-joint",
+      "width": 390,
+      "file": "qa/challenger-joint-390.png",
+      "noHorizontalOverflow": true
+    },
+    {
+      "route": "/stories/jensen-huang",
+      "width": 390,
+      "file": "qa/jensen-huang-390.png",
+      "noHorizontalOverflow": true
+    }
+  ],
+  "checks": [
+    "All 31 story routes return 200; sitemap includes each; unknown slug returns 404.",
+    "Category filtering and keyboard reset pass at desktop and mobile sizes.",
+    "Home shows the first four stories in the same order as the index.",
+    "All 31 pages have canonical URLs, NewsArticle JSON-LD, source counts, deferred video players and no horizontal overflow at 1440/390px.",
+    "Both sampled story players load youtube-nocookie embeds only after a click; jump links and source anchors resolve."
+  ],
+  "browserErrors": []
+}
