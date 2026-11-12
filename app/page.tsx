@@ -47,13 +47,13 @@ export default async function Home() {
       <main id="main-content">
         <section className="hero shell" aria-labelledby="hero-title">
           <div className="hero-copy">
-            <p className="eyebrow"><span className="status-dot" aria-hidden="true" />A clearer picture starts here</p>
+            <p className="eyebrow">FrameIQ · News explained</p>
             <h1 id="hero-title">News, explained<br />through <span>evidence.</span></h1>
             <p className="hero-description">Crashes, disasters, science, and technology.<br className="desktop-break" /> Calm breakdowns of what happened—and what we actually know.</p>
             <a className="button button-primary" href="https://www.youtube.com/@frameiqapp?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">▶</span> Subscribe on YouTube <span aria-hidden="true">↗</span><span className="sr-only"> (opens in a new tab)</span></a>
           </div>
           <Link className="hero-feature" href="/stories/learjet-n722bd">
-            <div className="feature-topline"><span className="eyebrow">In focus / 001</span><span className="data-chip">Investigation</span></div>
+            <div className="feature-topline"><span className="eyebrow">The story. In focus.</span><span className="data-chip">Investigation</span></div>
             <div className="feature-image"><img src="https://i.ytimg.com/vi/QfEGcw0wwt0/hqdefault.jpg" alt="FrameIQ's 3D reconstruction of Learjet N722BD" width="480" height="360" fetchPriority="high" /></div>
             <div className="feature-body"><p className="eyebrow">The Greenacres Learjet crash</p><h2>Follow the evidence.<br />Understand the unknowns.</h2><span className="text-link">Read the story <span aria-hidden="true">↗</span></span></div>
           </Link>
@@ -75,7 +75,7 @@ export default async function Home() {
         </section>
 
         <section id="tools" className="shell section tools-section" aria-labelledby="tools-title">
-          <div><p className="eyebrow">03 / Put it in perspective</p><h2 id="tools-title">Make sense<br />of the numbers.</h2><p className="muted">A little context can change how a number feels.<br />Explore the assumptions for yourself.</p></div>
+          <div><p className="eyebrow">03 / Put it in perspective</p><h2 id="tools-title">Make sense<br /> of the numbers.</h2><p className="muted">A little context can change how a number feels.<br />Explore the assumptions for yourself.</p></div>
           <Link className="tool-card" href="/tools/trip-risk"><div className="tool-card-top"><span className="data-chip">Interactive calculator</span><span aria-hidden="true">↗</span></div><div className="tool-ruler" aria-hidden="true"><span /><span /><span /><span /><span /><span /><span /><span /><span /><span /><span /></div><h3>How risky is your trip?</h3><p>Compare average fatal-event exposure across five ways to travel, with the sources and caveats in view.</p><span className="text-link">Explore the calculator <span aria-hidden="true">→</span></span></Link>
         </section>
 

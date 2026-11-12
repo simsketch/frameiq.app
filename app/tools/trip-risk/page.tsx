@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     title: "How risky is your trip? · FrameIQ",
     description: "Explore the numbers behind travel risk. Historical averages, clear assumptions, and approximate exposure equivalences.",
     url: "/tools/trip-risk",
-    images: ["/opengraph-image"],
+    images: ["/opengraph-image.png"],
   },
 };
 

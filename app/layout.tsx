@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
-import { Anton, Inter } from "next/font/google";
+import { IBM_Plex_Mono, IBM_Plex_Sans } from "next/font/google";
 import "./globals.css";
 
-const anton = Anton({ weight: "400", subsets: ["latin"], variable: "--font-anton", display: "swap" });
-const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });
+const plexSans = IBM_Plex_Sans({ weight: ["400", "700"], subsets: ["latin"], variable: "--font-plex-sans", display: "swap" });
+const plexMono = IBM_Plex_Mono({ weight: "500", subsets: ["latin"], variable: "--font-plex-mono", display: "swap" });
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://frameiq.app"),
@@ -16,11 +16,12 @@ export const metadata: Metadata = {
     locale: "en_US",
     title: "FrameIQ — News, explained through evidence",
     description: "Calm explainers. Visible sources. A clearer picture.",
-    images: [{ url: "/opengraph-image", width: 1200, height: 630, alt: "FrameIQ — News, explained through evidence" }],
+    images: [{ url: "/opengraph-image.png", width: 1200, height: 630, alt: "FrameIQ — News, explained through evidence" }],
   },
   twitter: { card: "summary_large_image" },
   icons: {
-    icon: "/favicon.png",
+    icon: [{ url: "/brand/frameiq-symbol-primary.svg", type: "image/svg+xml" }, { url: "/brand/favicon.ico", sizes: "any" }],
+    apple: "/brand/apple-touch-icon.png",
   },
 };
 
@@ -31,7 +32,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${anton.variable} ${inter.variable} antialiased`}>{children}</body>
+      <body className={`${plexSans.variable} ${plexMono.variable} antialiased`}>{children}</body>
     </html>
   );
 }

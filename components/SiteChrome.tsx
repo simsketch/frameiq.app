@@ -17,14 +17,14 @@ export default function SiteChrome({ children }: { children: React.ReactNode }) 
       {children}
       <footer className="site-footer">
         <div className="shell footer-grid">
-          <div><Wordmark /><p>Calm explainers. A clearer picture.</p></div>
+          <div><Wordmark reverse /><p className="footer-tagline">CONTEXT. CLARITY. FRAMEIQ.</p></div>
           <div>
             <a className="footer-youtube" href="https://www.youtube.com/@frameiqapp" target="_blank" rel="noopener noreferrer">Watch FrameIQ on YouTube ↗<span className="sr-only"> (opens in a new tab)</span></a>
             <p id="corrections-policy"><strong>Corrections policy:</strong> We correct factual errors openly and date material updates on each story.</p>
             <Link className="capture-link" href="/capture">Also by FrameIQ: FrameIQ Capture for macOS <span aria-hidden="true">↗</span></Link>
           </div>
         </div>
-        <div className="shell footer-bottom"><span>© {new Date().getFullYear()} FrameIQ</span><span>Evidence first. Always.</span></div>
+        <div className="shell footer-bottom"><span>© {new Date().getFullYear()} FrameIQ</span><span>THE STORY. IN FOCUS.</span></div>
       </footer>
     </div>
   );
